@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "biostat840-intro-Yu-Lu"
+  title: "Yu Lu"
   navbar:
     left:
       - href: index.qmd
