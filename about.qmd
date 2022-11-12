@@ -2,8 +2,36 @@
 title: "About"
 ---
 
-About this site
+## About me
 
-```{r}
-1 + 1
-```
+#### My name Yu Lu, and I am a first-year Biostatistics PhD student at Johns Hopkins Bloomberg School of Public Health. Beforehead, I was a master student in Biostatistics at Harvard School of public health, during which I worked with two research projects, under Professor Molin Wang and Professor Rui Duan's supervision.
+
+---------------------------------------------------------------------
+
+## Education
+
+**Ph.D. in Biostatistics** (2022 - 2027)
+
+Johns Hopkins Bloomberg School of Public Health
+
+**MS in Biostatistics** (2020 - 2022)
+
+Harvard University School of Public Health
+
+**BS in Statistics** (2016 - 2020)
+
+Nankai University School of Mathematical Science
+
+---------------------------------------------------------------------
+
+## Research Experience
+
+I am working with Professor Molin Wang on a project focusing on measurement correction with reliability data by extending the theory established by Raymond Carroll and developing a user-friendly R package for realization.
+
+I worked with Professor Rui Duan on a project focusing on exacerbating health disparities in the African ancestry population and under-represented area with transfer learning and maximin method.
+
+During my undergrads, I worked with Professor Ximing Xu on a project exploring functional data analysis with children growth curve.  
+
+
+
+

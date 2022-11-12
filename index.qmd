@@ -1,11 +1,39 @@
 ---
-title: "biostat840-intro-Yu-Lu"
+title: "Yu Lu"
+image: Headshot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/yu-lu-6b4227200/
+    - text: GitHub
+      href: https://github.com/yulu98
+    - text: Email
+      href: ylu136@jhu.edu
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#### Hi! This is Yu Lu. I am a first-year Biostatistics PhD student at Johns Hopkins Bloomberg School of Public Health. 
 
-```{r}
-1 + 1
-```
+-----------------------------
+
+
+## Education
+
+**Ph.D. in Biostatistics** (2022 - 2027)
+
+Johns Hopkins Bloomberg School of Public Health
+
+**MS in Biostatistics** (2020 - 2022)
+
+Harvard University School of Public Health
+
+**BS in Statistics** (2016 - 2020)
+
+Nankai University School of Mathematical Science
+
+
+
